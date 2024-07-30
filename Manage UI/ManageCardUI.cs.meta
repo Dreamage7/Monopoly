@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 4389566bc8a73c045b9e39ef5cdf5b28
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - colorField: {instanceID: 0}
+  - mortgageImage: {instanceID: 0}
+  - mortgageValueText: {instanceID: 0}
+  - mortgageButton: {instanceID: 0}
+  - unMortgageButton: {instanceID: 0}
+  - nameText: {instanceID: 0}
+  - iconImage: {instanceID: 0}
+  - houseSprite: {fileID: -667036146, guid: 0405524d258e527469ed7cd86f5b89d9, type: 3}
+  - railroadSprite: {fileID: 1748452641, guid: 0405524d258e527469ed7cd86f5b89d9, type: 3}
+  - utilitySprite: {fileID: 1964112467, guid: 0405524d258e527469ed7cd86f5b89d9, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

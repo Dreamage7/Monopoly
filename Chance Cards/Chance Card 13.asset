@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ff7c138a4084e24181e4d5d401fe879, type: 3}
+  m_Name: Chance Card 13
+  m_EditorClassIdentifier: 
+  textOnCard: "\u60A8\u5F53\u9009\u4E3A\u8463\u4E8B\u4F1A\u4E3B\u5E2D\u3002<br><br>\u5411\u6BCF\u4F4D\u73A9\u5BB6\u53D1\u7EA2\u5305<color=red>
+    12 $</color>\u3002<br>\u540C\u5E86\uFF01\u540C\u5E86\uFF01"
+  rewarMoney: 0
+  penalityMoney: 12
+  moveToBoardIndex: -1
+  nextRailroad: 0
+  nextUtility: 0
+  moveStepsBackwards: 0
+  payToPlayer: 1
+  goToJail: 0
+  jailFreeCard: 0
+  streetRepairs: 0
+  streetRepairsHouse: 0
+  streetRepairsHotel: 0

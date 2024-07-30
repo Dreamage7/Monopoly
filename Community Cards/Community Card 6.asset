@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08f96433adca6834b92f0d546f18b8cb, type: 3}
+  m_Name: Community Card 6
+  m_EditorClassIdentifier: 
+  textOnCard: "\u5C0A\u656C\u7684\u5BA2\u670D\u60A8\u597D\uFF0C\u60A8\u7684\u94F6\u884C\u8D26\u53F7\u51FA\u73B0\u4E86\u9519\u8BEF\uFF0C\u4E3A\u6B64\u5BF9\u60A8\u9020\u6210\u4E86\u4E0D\u4FBF\uFF0C\u6211\u4EEC\u7279\u6B64\u8D54\u507F\u60A8<color=green>
+    50 $</color>\u3002"
+  rewarMoney: 50
+  penalityMoney: 0
+  moveToBoardIndex: -1
+  collectFromPlayer: 0
+  goToJail: 0
+  jailFreeCard: 0
+  streetRepairs: 0
+  streetRepairsHouse: 0
+  streetRepairsHotel: 0
